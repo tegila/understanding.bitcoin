@@ -1,4 +1,9 @@
-# Decoding Bitcoin p2p network to learn how to get into it using plain simple javascript
+## Decoding Bitcoin p2p network to learn how to get into it using plain simple javascript
+
+LATEST UPDATE:
+TRY IT NOW USING WEBSOCAT:
+
+> websocat wss://tegila.com.br/websocket/bitcoin
 
 Using TCPdump to get into bitcoin p2p network
 
